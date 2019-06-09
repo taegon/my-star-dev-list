@@ -13,6 +13,11 @@
   * GitHub: [@carpedm20](https://github.com/carpedm20)
 * 골빈해커(김진중) 님: "골빈해커의 3분 딥러닝"의 저자이다. 책 발간 이후에 네이버 팀에 합류하신 걸로 안다.
   * GitHub: [@golbin](https://github.com/golbin)
+* 박해선 님: "핸즈온 머신러닝", "케라스 창시자에게 배우는 딥러닝", "파이썬 라이브러리를 활용한 머신러닝" 등의 역자
+  * [텐서 플로우 블로그](https://tensorflow.blog/)
+  * GitHub: [@rickiepark](https://github.com/rickiepark)
+* 김태영 님: 케라스 코리아 운영자. 개인 블로그에 케라스 강의를 잘 정리해두셨다.
+  * [개인 블로그](https://tykimos.github.io/lecture/)
 
 ## 프론트엔드/백엔드
 
