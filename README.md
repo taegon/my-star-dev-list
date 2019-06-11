@@ -5,7 +5,9 @@
 ## 저자/역자
 
 * 임백준 작가님: 우리나라에서 몇 안 되는 이름이 알려진 스타 개발자이다. 현재는 우면동의 삼성전자에서 근무하시고 계시다. 주로 페이스북에서 그 분의 아재개그와 함께 통찰력 있는 기술 트렌드를 읽을 수 있다. "나프다" 팟캐스트로 많은 이야기를 전해들을 수 있어서 좋았었다.
+  * [![facebook][2.2]](https://www.facebook.com/baekjun.lim)
 * 박은정 님: KoNLPy 개발자이다. 현재 네이버 파파고 팀에서 근무하고 계신 듯 하다. 처음 접했던 것이 책이었기에, 역자 분류에 넣어두었다. [개인 홈페이지](https://lucypark.kr)도 잘 정리되어 있어, 참조를 많이 하였다.
+  * [![GitHub][6.2]](https://github.com/e9t)
 
 ## 머신러닝
 
@@ -37,3 +39,27 @@
   * GitHub: [@asbubam](https://github.com/asbubam/resume)
 
 ## 아직 분류 안함
+
+<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
+<!-- links to social media icons -->
+<!-- no need to change these -->
+
+<!-- icons with padding -->
+
+[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+[2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
+[3.1]: http://i.imgur.com/yCsTjba.png (google plus icon with padding)
+[4.1]: http://i.imgur.com/YckIOms.png (tumblr icon with padding)
+[5.1]: http://i.imgur.com/1AGmwO3.png (dribbble icon with padding)
+[6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+
+<!-- icons without padding -->
+
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[2.2]: http://i.imgur.com/fep1WsG.png (facebook icon without padding)
+[3.2]: http://i.imgur.com/VlgBKQ9.png (google plus icon without padding)
+[4.2]: http://i.imgur.com/jDRp47c.png (tumblr icon without padding)
+[5.2]: http://i.imgur.com/Vvy3Kru.png (dribbble icon without padding)
+[6.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
+
+<!-- links to your social media accounts -->
