@@ -12,6 +12,13 @@
   * 관련뉴스: [`[주목! 이사람]'높임말 번역' 개발한 박은정 네이버 파파고 테크리더 "기술로 언어 장벽 낮추고파"`](http://www.newsis.com/view/?id=NISX20190605_0000672762) - 뉴시스 (2019.06.09)
 * 박재성(javajigi) 님: 자바지기라는 아이디로 유명하다. NHN 넥스트에서 교수로 재직했고, 현재 우아한 형제들의 "우아한테크코스" 교육 과정을 책임지고 있다.
   * 브런치: [https://brunch.co.kr/@javajigi](https://brunch.co.kr/@javajigi)
+* 김진영 님: "데이터지능 팟캐스트" 진행자. "헬로 데이터 과학" 저자.
+  * [`데이터지능 팟캐스트`](http://data-intelligence.io)
+  * 책 홈페이지: [헬로 데이터 과학](http://www.hellodatascience.com)
+  * 출연팟캐스트: [나프다: 데이터 과학 특집 1부 (2015.12.27)](http://www.podbbang.com/ch/9126?e=21859516), [나프다: 데이터 과학 특집 2부 (2016.01.05)](http://www.podbbang.com/ch/9126?e=21865127)
+* 권재명 님: “따라 하며 배우는 데이터 과학 (2017)”의 저자.
+  * 출연팟캐스트: [데이터지능 팟캐스트 E12-1 : 데이터과학과 통계편 – 권재명님](http://data-intelligence.io/?p=165), [E12-2](http://data-intelligence.io/?p=169)
+  * 개인블로그: [Data Science Fun](http://dataninja.me)
 
 ## 머신러닝
 
@@ -32,10 +39,17 @@
 
 ## 프론트엔드/백엔드
 
+* xguru(권정혁) 님: 꽤 오래전부터 블로그를 열심히 찾아봤던 개발자이다. 최근에는 거의 찾아보지 못했다. 트위터를 팔로우하고 있는데, 왜 안 보였는지 모르겠다. 글쓰기 앱을 10일전쯤 공개한 것이 있다. 레진코믹스와 우아한 형제 등을 거치셨다. 내가 동경하던 개발자로 손에 꼽던 분.
+  * 개인블로그: [https://xguru.net](https://xguru.net)
+  * [![GitHub][6.2] xguru](https://github.com/xguru)
 * 아웃사이더(변정훈) 님: 이 분도 너무 유명하신 분이라 분류가 애매한데, 블로거로 따로 모아둘 정도로 많은 분이 있지 않아서 이 쪽으로 분류해 두었다.
   * 개인블로그: [https://blog.outsider.ne.kr/](https://blog.outsider.ne.kr/)
   * [![GitHub][6.2] outsideris](https://github.com/outsideris)
 * 박현우(lqez) 님: 스마트스터디에서 프론트엔드 개발자로 일하시는 듯. 양단에 원문과 번역글을 보여주는 사이트를 만들어서 스스로 번역한 글을 공유하고 있다. [`zerobased.co`](https://github.com/zerobased-co)라는 개인 프로젝트를 운영하고 있다. [`Setup`](https://setup.cafe/)이라는 분기별 저널을 준비하고 있는 것 같은데, 간단한 html 코드인데 깔끔하게 보여준다.
+* 송성광(saltfactory)님: 하이브레인넷 개발자이다. 학교에 적을 두고, 개발을 해간다는 게 쉽지 않은데, 학습하고 학습한 내용을 기록으로 남기는 점이 대단하였다. 이 분 블로그도 매일 들락거리면서 봤던 기억이 있다. 이 분 글을 보고, github pages로 홈페이지를 만들 생각을 했던 것으로 기억한다.
+  * [온라인 CV](https://sungkwang.me)
+  * [기술블로그](https://tech.sungkwang.me/open-blog-on-github)
+  * [![GitHub][6.2] sungkwangsong](https://github.com/sungkwangsong)
 * 김태곤(taggon) 님: 나와 동명이인인 자바스크립트 개발자. 네이버, 팬시를 거쳐 지금은 Automattic에서 유일한 한국인 개발자로 일하고 계시다. `.kim`도메인이 열렸을 때, 나도 살까 고민했던 도메인을 이분에게 뺐겻다(??).
   * 개인홈페이지: [https://taegon.kim](https://taegon.kim)
 * nacyot(김대권) 님: 44bits를 운영하시고 있는 개발자. 아이디는 '낰욧'이라고 읽는다. 당근마켓에서 루비개발자로 일하고 계시다.
@@ -51,6 +65,7 @@
 * 율무(milooy, 진유림) 님: TIL, 1일1커밋으로 접한 개발자. 2017년 12월 경 발견하고, 감명을 받아서 나도 TIL과 1일1커밋을 시작했던 것으로 기억한다. 덕분에 Git이 많이 편해졌다. 네이버 넥스트 1기이면서, 스마트스터디를 거쳐서, 현재는 ZEPL에서 개발자로 일하고 있다. Git관련 강의와 서적을 준비하고 있는 것으로 안다. 참 멋진 개발자이다.
   * [![GitHub][6.2] milooy](https://github.com/asbubam/resume)
 * 캡틴판교 (장기효) 님: "Vus.js 입문" 저자. 인프런의 2018년도 최고수익 강사이기도 하다.
+  * [![GitHub][6.2] joshua1988](https://github.com/joshua1988)
   * 개인블로그: [https://joshua1988.github.io/](https://joshua1988.github.io/)
   * 인터뷰: 연애 관련해서,  "3년 정도 만났는데요, 일수가 이제 1000일이 조금 넘잖아요. 장담하건대 930일은 코딩했을 것 같아요."라는 인터뷰를 한 적이 있다. 지금 계속 연애중인지 알 수 없어서, 여기서 생략. - [`지금이 웹 개발하기엔 '참 좋은 시기' - 개발자 장기효 2편`](https://m.blog.naver.com/miso0709/221408952133) 중
 
