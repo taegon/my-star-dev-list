@@ -61,13 +61,16 @@
   * [![GitHub][6.2] seapy](https://github.com/seapy)
   * 개인블로그: [https://www.iamseapy.com](https://www.iamseapy.com)
 * asbubam(이승우) 님: stdout.fm에 몇 번 등장하셨다. 우아한 형제에서 개발자로 일하시고, 이력을 보면, SmartStudy를 거쳤는데, 좋은 개발자가 동시간대에 많이 거쳐갔던 것 같다. 그래서 내게 스마트스터디는 앱 사용성을 별로였는데, 개발자 이미지는 좋은 회사가 되었다.
-  * [![GitHub][6.2] asbubam](https://github.com/asbubam/resume)
+  * [![GitHub][6.2] asbubam](https://github.com/asbubam)
 * 율무(milooy, 진유림) 님: TIL, 1일1커밋으로 접한 개발자. 2017년 12월 경 발견하고, 감명을 받아서 나도 TIL과 1일1커밋을 시작했던 것으로 기억한다. 덕분에 Git이 많이 편해졌다. 네이버 넥스트 1기이면서, 스마트스터디를 거쳐서, 현재는 ZEPL에서 개발자로 일하고 있다. Git관련 강의와 서적을 준비하고 있는 것으로 안다. 참 멋진 개발자이다.
-  * [![GitHub][6.2] milooy](https://github.com/asbubam/resume)
+  * [![GitHub][6.2] milooy](https://github.com/milooy)
 * 캡틴판교 (장기효) 님: "Vus.js 입문" 저자. 인프런의 2018년도 최고수익 강사이기도 하다.
   * [![GitHub][6.2] joshua1988](https://github.com/joshua1988)
   * 개인블로그: [https://joshua1988.github.io/](https://joshua1988.github.io/)
   * 인터뷰: 연애 관련해서,  "3년 정도 만났는데요, 일수가 이제 1000일이 조금 넘잖아요. 장담하건대 930일은 코딩했을 것 같아요."라는 인터뷰를 한 적이 있다. 지금 계속 연애중인지 알 수 없어서, 여기서 생략. - [`지금이 웹 개발하기엔 '참 좋은 시기' - 개발자 장기효 2편`](https://m.blog.naver.com/miso0709/221408952133) 중
+* 치즈 (서지연)님: 나프다 진행자로 활동하신 걸로 처음 알게 되었다. 카카오에서 근무하다가, 2017년에 페이스북으로 이직.
+  * 개인블로그: [https://jiyeonseo.github.io](https://jiyeonseo.github.io)
+  * [![GitHub][6.2] jiyeonseo](https://github.com/jiyeonseo/resume)
 
 ## 아직 분류 안함
 
