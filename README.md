@@ -16,6 +16,7 @@
   * [`데이터지능 팟캐스트`](http://data-intelligence.io)
   * 책 홈페이지: [헬로 데이터 과학](http://www.hellodatascience.com)
   * 출연팟캐스트: [나프다: 데이터 과학 특집 1부 (2015.12.27)](http://www.podbbang.com/ch/9126?e=21859516), [나프다: 데이터 과학 특집 2부 (2016.01.05)](http://www.podbbang.com/ch/9126?e=21865127)
+  * 성공하지 못한 프로젝트: [`미국 테크회사로 이직한 사람들`](https://brunch.co.kr/magazine/changbalpub#articles)
 * 권재명 님: “따라 하며 배우는 데이터 과학 (2017)”의 저자.
   * 출연팟캐스트: [데이터지능 팟캐스트 E12-1 : 데이터과학과 통계편 – 권재명님](http://data-intelligence.io/?p=165), [E12-2](http://data-intelligence.io/?p=169)
   * 개인블로그: [Data Science Fun](http://dataninja.me)
@@ -32,10 +33,6 @@
   * [![GitHub][6.2] rickiepark](https://github.com/rickiepark)
 * 김태영 님: 케라스 코리아 운영자. 개인 블로그에 케라스 강의를 잘 정리해두셨다.
   * 개인 블로그: [https://tykimos.github.io/lecture/](https://tykimos.github.io/lecture/)
-* 김진영 님: "헬로데이터과학"의 저자. 나프다 출연 이후, 팟캐스트 "데이터 지능 팟캐스트"를 운영하고 있다.
-  * [데이터 지능 팟캐스트](http://data-intelligence.io/)
-  * [http://www.hellodatascience.com/](http://www.hellodatascience.com/)
-  * 성공하지 못한 프로젝트: [`미국 테크회사로 이직한 사람들`](https://brunch.co.kr/magazine/changbalpub#articles)
 
 ## 프론트엔드/백엔드
 
