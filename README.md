@@ -73,6 +73,7 @@
 * 치즈 (서지연)님: 나프다 진행자로 활동하신 걸로 처음 알게 되었다. 카카오에서 근무하다가, 2017년에 페이스북으로 이직.
   * 개인블로그: [https://jiyeonseo.github.io](https://jiyeonseo.github.io)
   * [![GitHub][6.2] jiyeonseo](https://github.com/jiyeonseo/resume)
+* velopert (김민준)님: 리디북스로 인수된 애니메이션 스트리밍 서비스 라프텔의 개발자. "리액트를 다루는 기술"의 저자이면서, velog라는 개발자 블로그 플랫폼을 운영하고 있다. 역시 좋은 글을 많이 쓰고 있는 스타 개발자이다.
 
 ## 아직 분류 안함
 
