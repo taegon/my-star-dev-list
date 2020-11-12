@@ -20,6 +20,8 @@
 * 권재명 님: “따라 하며 배우는 데이터 과학 (2017)”의 저자.
   * 출연팟캐스트: [데이터지능 팟캐스트 E12-1 : 데이터과학과 통계편 – 권재명님](http://data-intelligence.io/?p=165), [E12-2](http://data-intelligence.io/?p=169)
   * 개인블로그: [Data Science Fun](http://dataninja.me)
+* 최범균 님: "자바캔"이라는 필명으로 블로그를 운영중이시다. 자바를 처음 배우던 시절 최범균 님 책을 많이 봤었다. 편집이 투박하였지만, 내용은 경험을 바탕으로 쓴 것이 분명해보여서 사사하는 기분으로 읽었던 기억이 있다. 자바의 시대가 저물어 가는 것처럼 최범균 님의 블로그에서도 자바보다는 머신러닝, 도커, 파이썬 같은 글이 많이 보인다.
+  * 개인블로그: [자바캔(Java Can Do IT)](https://javacan.tistory.com/m)
 
 ## 머신러닝
 
@@ -33,6 +35,19 @@
   * [![GitHub][6.2] rickiepark](https://github.com/rickiepark)
 * 김태영 님: 케라스 코리아 운영자. 개인 블로그에 케라스 강의를 잘 정리해두셨다.
   * 개인 블로그: [https://tykimos.github.io/lecture/](https://tykimos.github.io/lecture/)
+* 이유한 님: 캐글 마스터. 캐글 코리아 운영진이다. KAIST를 거쳐 2020년 현재 원자력연구원 소속이다.
+  * [[이유한님] 캐글 코리아 캐글 스터디 커널 커리큘럼](https://kaggle-kr.tistory.com/32)
+  * [캐글 프로파일](https://www.kaggle.com/youhanlee)
+* 이제현 님: 2020년 들어, matplotlib과 seaborn에 관한 글을 개인 블로그에 올리기 시작하였는데, 관련 내용으로 최고라고 할 수 있을정도로 훌륭하다.
+  * 개인 블로그: [Pega Devlog](https://jehyunlee.github.io/)
+  * [![GitHub][6.2] jehyunlee](https://github.com/jehyunlee)
+* 안수빈 님: 캐글에서 활동하는데, 시각화 관련 노트북이 매우 훌륭하다.
+  * [![GitHub][6.2] subinium](https://github.com/subinium)
+  * [Python Data Visualization](https://github.com/subinium/Python-Data-Visualization)
+  * [캐글 노트북](https://www.kaggle.com/subinium/notebooks)
+* 박찬성 님: 케라스 코리아 오픈책과 TensorFlow KR 페이스북 그룹에서 알게 되었는데, 2020년 한해 왕성하게 활동하더니, 책도 쓰셨다. fast.ai KR 페이스북 커뮤니티를 운영하고 있기도 하다. ETRI 소속.
+  * [![GitHub][6.2] deep-diver](https://github.com/deep-diver)
+  * "나만의 스마트워크 환경 만들기 : 파이썬으로 만드는 업무 자동화 프로그램"의 저자
 
 ## 프론트엔드/백엔드
 
