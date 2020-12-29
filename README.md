@@ -63,7 +63,11 @@
 * rainygirl(이준행) 님: 일베를 미러링한 일간워스트를 만든 개발자. 개발 기술과 미디어공학을 잘 이해하고 있으신 분. 일워를 운영하면서 다양한 DDOS 공격 및 트롤링을 막아내었던 스토리가 재미있었다. 그 외에도 "충격" 이라는 단어가 포함된 뉴스만 모아서 보여주는 충격 코로케 사이트와 다수의 재미있는 프로젝트를 성공적으로 운영하였다. 페미니즘 전사로 낙인찍혀 나무위키에 등장할 정도로 인기인(?)이다. 전공도 그렇고, 언론에 대한 관심이 많다. 명성에 비하여, 개발자 커뮤니티에서는 좀처럼 보기 어려우며, 대신 신문 기고 등으로 만나볼 수 있다.
   * 개인블로그: [http://rainygirl.com/](http://rainygirl.com/)
   * [![GitHub][6.2] rainygirl](https://github.com/rainygirl)
-* 박현우(lqez) 님: 스마트스터디에서 프론트엔드 개발자로 일하시는 듯. 양단에 원문과 번역글을 보여주는 사이트를 만들어서 스스로 번역한 글을 공유하고 있다. [`zerobased.co`](https://github.com/zerobased-co)라는 개인 프로젝트를 운영하고 있다. [`Setup`](https://setup.cafe/)이라는 분기별 저널을 준비하고 있는 것 같은데, 간단한 html 코드인데 깔끔하게 보여준다.
+* lqez (박현우)님: 핑크퐁 제작사인 스마트스터디 출신. 최근에는 "하루개발"이라는 컨셉으로 단 하루동안 일하면서, 회사를 소개하는 유투브를 찍고 있다. 번역 사이트인 [`muchtrans`](https://muchtrans.com/)도 매우 훌륭하다. 양단에 원문과 번역글을 보여주는 사이트를 만들어서 스스로 번역한 글을 공유하고 있다. [`Setup`](https://setup.cafe/)이라는 분기별 저널을 준비하셨었는데, 접으신 모양이다.
+  * 개인블로그: [https://lqez.dev/](https://lqez.dev/)
+  * [![GitHub][6.2] lqez](https://github.com/lqez)
+  * [![GitHub][6.2] zerobased-co](https://github.com/zerobased-co)
+  * [Youtube (Hyun-woo Park)](https://www.youtube.com/user/lqez)
 * 송성광(saltfactory)님: 하이브레인넷 개발자이다. 학교에 적을 두고, 개발을 해간다는 게 쉽지 않은데, 학습하고 학습한 내용을 기록으로 남기는 점이 대단하였다. 이 분 블로그도 매일 들락거리면서 봤던 기억이 있다. 이 분 글을 보고, github pages로 홈페이지를 만들 생각을 했던 것으로 기억한다.
   * [온라인 CV](https://sungkwang.me)
   * [기술블로그](https://tech.sungkwang.me/open-blog-on-github)
